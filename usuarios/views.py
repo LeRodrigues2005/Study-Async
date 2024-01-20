@@ -20,8 +20,8 @@ def cadastro(request):
     user = User.objects.filter(username=username)
 
     if user.exists():
-        messages.add_message(request, constants.ERROR, 'Usuário já existe')
-        return redirect('/usuarios/cadastro')
+        messages.add_message(request, constants.ERROR, 'Usuário existente detectado. Faça login.')
+        return redirect('/usuarios/logar')
 
     try:
         User.objects.create_user(
