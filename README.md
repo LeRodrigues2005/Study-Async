@@ -10,7 +10,7 @@ Após rodar o comando, deve aparecer a seguinte mensagem no terminal:
 
 Então, pressione Ctrl + clique no link do site:
 
-![image](https://github.com/LeRodrigues2005/Study-Async/assets/97632543/d93df1af-5650-452a-807a-9ad9454b9965)
+![image](https://github.com/LeRodrigues2005/Study-Async/assets/97632543/17a9f722-19ca-4633-b17c-c6450c5281fc)
 
 Depois, é só fazer o cadastro e explorar a plataforma! 
 (Tudo pode ser melhorado, mas por enquanto vou deixar do jeito que está.)
