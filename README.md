@@ -1,4 +1,4 @@
-# Como isso funciona?
+# Rodando a página
 
 Para abrir a página Study Async, você deve rodar o seguinte comando no terminal de seu Visual Studio Code:
 
